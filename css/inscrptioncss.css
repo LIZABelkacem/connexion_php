@@ -1,0 +1,74 @@
+body{
+    background: #92c435;
+    margin-top: center;
+     margin-left:center ;
+}
+
+#container{
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+    vertical-align: middle;
+    align-items: center;
+    border-radius: 10px;
+
+}
+/* Bordered form */
+.form {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    vertical-align: middle;
+}
+#container h1{
+    width: 38%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+/* Full-width inputs */
+input[type=email], input[type=password] , input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+.lol , .submit {
+    background-color:#92c435;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 10px;
+
+}
+.lol .submit :hover {
+    background-color: white;
+    color:#92c435;
+    border: 1px solid #92c435;
+}
+
+.item{
+    margin-left : 300% ;
+ }
+ .container {
+    width: 400px;
+    border-radius: .5em;
+    justify-content: space-between;
+    align-content: space-between;
+    border-radius: 10px;
+
+  }
+ .flex {
+    display: grid;
+    grid-template-columns: 50% 50% 50% ;
+    
+  }

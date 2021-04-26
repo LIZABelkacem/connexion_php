@@ -1,0 +1,140 @@
+
+ .ru { 
+   margin-top: inherit ;
+   margin-left: 90% ; 
+   display: block; 
+  }
+.re { 
+ margin-top :inherit ;
+ margin-left: 500px ; 
+}
+
+.item{
+   margin-left : 300% ;
+}
+.container {
+   width: 400px;
+   border-radius: .5em;
+   justify-content: space-between;
+   align-content: space-between;
+ }
+.flex {
+   display: grid;
+   grid-template-columns: 50% 50% 50% ;
+   
+ }
+         
+.a {
+   height: 50px ; 
+   width: 400px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top: auto;
+     margin-left:auto;
+     margin-right: auto;
+     border-radius: 10px;
+
+}
+
+         
+.b {
+   height: 50px ; 
+   width: 400px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top: 50px;
+     margin-left:auto ;
+     margin-right: auto;
+     border-radius: 10px;
+
+}
+
+         
+.c {
+   height: 50px ; 
+   width: 400px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top: 50px;
+     margin-left:auto ;
+     margin-right: auto;
+     border-radius: 10px;
+
+   
+
+}         
+.d  {
+   height: 50px ; 
+   width: 400px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top : 50px;
+     margin-left:auto ;
+     margin-right: auto;
+     border-radius: 10px;
+
+
+}
+
+.toz {
+     height: 50px ; 
+   width: 400px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top : center;
+          margin-left:center ;
+          
+}
+.file {
+   background-color: red ; 
+}
+.btn-submit {
+  height: 50px ; 
+   width: 150px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top : 50px;
+          margin-left:420px ;
+}
